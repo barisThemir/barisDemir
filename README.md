@@ -1,6 +1,6 @@
 <!-- Cyberpunk Kapak Görseli -->
 <p align="center">
-  <img src="https://i.ibb.co/68vstWrt/image-1.png" alt="Barış Demir Cyberpunk Banner" width="100%" />
+  <h1>Barış Demir</h1>
 </p>
 
 <!-- Hareketli Alt Başlık -->
