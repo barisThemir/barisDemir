@@ -1,79 +1,78 @@
 <!-- CANLI DURUM & HAREKETLİ GİRİŞ -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=32&color=00FF99&center=true&vCenter=true&width=600&height=60&lines=👋+WELCOME+TO+MY+HUB;I'M+BARIŞ+DEMİR;COMPUTER+SCIENCE+STUDENT;GAME+%26+FULL-STACK+DEV" alt="Typing Effect" />
-</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=32&color=00FF99&center=true&vCenter=true&width=600&height=60&lines=👋+WELCOME+TO+MY+HUB;I'M+BARIŞ+DEMİR;COMPUTER+SCIENCE+STUDENT;GAME+%26+FULL-STACK+DEV" alt="Typing Effect" />
+  </a>
+</div>
 
 <!-- AKTİF BİLGİ HUD (YANIP SÖNEN KARTLAR) -->
 <p align="center">
   <a href="https://github.com/barisThemir">
-    <img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPMENT-00FF99?style=for-the-badge&logo=codeforces&logoColor=black" />
-    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-ff007f?style=for-the-badge&logo=statuspage&logoColor=white" />
-    <img src="https://img.shields.io/badge/FOCUS-C%23%20%7C%20C%2B%2B%20%7C%20REACT-00bfff?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPMENT-00FF99?style=for-the-badge&logo=codeforces&logoColor=black" alt="Status" />
+    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-ff007f?style=for-the-badge&logo=statuspage&logoColor=white" alt="System" />
+    <img src="https://img.shields.io/badge/FOCUS-C%23%20%7C%20C%2B%2B%20%7C%20REACT-00bfff?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Focus" />
   </a>
 </p>
 
 <br>
 
-<!-- 1. HAREKETLİ CONTRIBUTIONS YILAN OYUNU (SNAKE GAME) -->
-<!-- Bu grafik senin GitHub commit geçmişini gerçek zamanlı yiyen hareketli bir yılandır -->
-<h3 align="center">👾 MY CONTRIBUTIONS GAME (LIVE SNAKE)</h3>
+<!-- 0. TEKNOLOJİ AĞI (TECH STACK) -->
+<h3 align="center">🚀 TECH STACK & ARSENAL</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/barisThemir/barisThemir/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contributions Snake Game" width="100%" />
+  <a href="https://skillicons.dev">
+    <!-- Bildiğin teknolojileri buradan ekleyip çıkarabilirsin -->
+    <img src="https://skillicons.dev/icons?i=cs,cpp,react,js,ts,nodejs,python,git,unity,docker,linux&perline=11" alt="Tech Stack" />
+  </a>
 </p>
 
 <br>
 
-<!-- 2. GERÇEK ZAMANLI KODLAMA HIZI VE SÜRELERİ (WAKATIME VEYA AKTİF METRİK) -->
-<!-- Kod yazma sürelerini ve aktiflik derecelerini canlı, hareketli dalgalarla gösteren HUD -->
+<!-- 1. GERÇEK ZAMANLI KODLAMA HIZI VE SÜRELERİ -->
 <h3 align="center">⚡ LIVE DIAGNOSTICS & RANK</h3>
-<div align="center">
-  <table border="0">
-    <tr>
-      <!-- Dinamik A+ Kartı ve Hareketli Değerler -->
-      <td width="50%" align="center">
-        <a href="https://github.com/barisThemir">
-          <img src="https://github-readme-stats.vercel.app/api?username=barisThemir&show_icons=true&theme=radical&rank_icon=github&border_radius=10&bg_color=0D0D15&title_color=00FF99&icon_color=ff007f&text_color=ffffff" alt="Stats" width="100%" />
-        </a>
-      </td>
-      <!-- Canlı Dil Dağılım Grafiği -->
-      <td width="50%" align="center">
-        <a href="https://github.com/barisThemir">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barisThemir&layout=compact&theme=radical&border_radius=10&bg_color=0D0D15&title_color=00FF99&text_color=ffffff" alt="Top Languages" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<!-- 3. HAREKETLİ YÜKSELEN SERİLER (STREAK) -->
-<div align="center">
-  <a href="https://github.com/barisThemir">
-    <!-- Sürekli güncellenen alevli ve hareketli istatistik serisi -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=barisThemir&theme=radical&border_radius=10&background=0D0D15&title=00FF99&ring=ff007f&fire=00FF99" alt="GitHub Streak" width="98%" />
-  </a>
-</div>
-
-<br>
-
-<!-- 4. CANLI BAŞARIM KUPALARI -->
-<h3 align="center">🏆 ACHIEVEMENT MODULE</h3>
-<div align="center">
-  <a href="https://github.com/barisThemir">
-    <!-- Profilindeki hareketliliğe göre parıldayan kupalar -->
-    <img src="https://github-profile-trophy.vercel.app/?username=barisThemir&theme=radical&column=7&margin-w=10&margin-h=10&no-frame=true" alt="Trophies" />
-  </a>
-</div>
-
-<br>
-
-<!-- 5. REAL-TIME SPOTIFY (OPSİYONEL - CANLI MÜZİK) -->
-<!-- Şu an ne dinlediğini canlı ve hareketli dalga boylarıyla gösterir (Lanyard veya Spotify API) -->
-<h3 align="center">🎵 NOW PLAYING (LIVE)</h3>
 <p align="center">
-  <a href="https://spotify-github-profile.tymon.mobi/oauth/redirect">
-    <img src="https://spotify-github-profile.tymon.mobi/api/view?uid=KENDI_SPOTIFY_UID_YAZABILIRSIN&cover_image=true&theme=novatorem&bar_color=00FF99&bar_color_cover=false" alt="Spotify" />
+  <!-- Ana İstatistik Kartı -->
+  <a href="https://github.com/barisThemir">
+    <img src="https://github-readme-stats.vercel.app/api?username=barisThemir&show_icons=true&theme=radical&rank_icon=github&border_radius=10&bg_color=0D0D15&title_color=00FF99&icon_color=ff007f&text_color=ffffff&hide_border=true" alt="Stats" width="48%" />
+  </a>
+  <!-- Dairesel Profil Özeti -->
+  <a href="https://github.com/barisThemir">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barisThemir&theme=radical&bg_color=0D0D15&title_color=00FF99&icon_color=ff007f&text_color=ffffff" alt="Profile Details" width="48%" />
+  </a>
+</p>
+
+<br>
+
+<!-- 2. HAREKETLİ YÜKSELEN SERİLER (STREAK) -->
+<h3 align="center">🔥 COMMIT STREAK</h3>
+<p align="center">
+  <a href="https://github.com/barisThemir">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=barisThemir&theme=radical&border_radius=10&background=0D0D15&title=00FF99&ring=ff007f&fire=00FF99&hide_border=true" alt="GitHub Streak" width="100%" />
+  </a>
+</p>
+
+<br>
+
+<!-- 3. SECURE COM-LINK (İLETİŞİM VE SOSYAL MEDYA) -->
+<h3 align="center">🌐 SECURE COM-LINK</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/SENIN_LINKIN" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/SENIN_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/X-BROADCAST-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:hello@brsdmr.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-hello%40brsdmr.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br>
+
+<!-- 4. TERMINAL BROADCAST (DİNAMİK MESAJLAR) -->
+<h3 align="center">📻 TERMINAL BROADCAST</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=20&pause=2000&color=00FF99&center=true&vCenter=true&width=600&height=50&lines=>_++%22Talk+is+cheap.+Show+me+the+code.%22;>_++Building+the+future,+one+line+at+a+time...;>_++System+ready.+Awaiting+commands..." alt="Typing Effect" />
   </a>
 </p>
 
@@ -81,5 +80,9 @@
 
 <hr style="border: 1px dashed #00FF99;">
 <p align="center">
-  <code>// SYSTEM STATUS: FULLY OPERATIONAL // DATA REFRESH: REALTIME //</code>
+  <!-- Neon Ziyaretçi Sayacı -->
+  <img src="https://komarev.com/ghpvc/?username=barisThemir&color=00FF99&style=for-the-badge&label=UNIQUE+VISITORS" alt="Ziyaretçi Sayacı"/>
+</p>
+<p align="center">
+  <code style="color: #00FF99;">// SYSTEM STATUS: FULLY OPERATIONAL // DATA REFRESH: REALTIME //</code>
 </p>
