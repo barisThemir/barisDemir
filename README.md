@@ -20,7 +20,6 @@
 <h3 align="center">🚀 TECH STACK & ARSENAL</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Bildiğin teknolojileri buradan ekleyip çıkarabilirsin -->
     <img src="https://skillicons.dev/icons?i=cs,cpp,react,js,ts,nodejs,python,git,unity,docker,linux&perline=11" alt="Tech Stack" />
   </a>
 </p>
@@ -30,11 +29,9 @@
 <!-- 1. GERÇEK ZAMANLI KODLAMA HIZI VE SÜRELERİ -->
 <h3 align="center">⚡ LIVE DIAGNOSTICS & RANK</h3>
 <p align="center">
-  <!-- Ana İstatistik Kartı -->
   <a href="https://github.com/barisThemir">
     <img src="https://github-readme-stats.vercel.app/api?username=barisThemir&show_icons=true&theme=radical&rank_icon=github&border_radius=10&bg_color=0D0D15&title_color=00FF99&icon_color=ff007f&text_color=ffffff&hide_border=true" alt="Stats" width="48%" />
   </a>
-  <!-- Dairesel Profil Özeti -->
   <a href="https://github.com/barisThemir">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barisThemir&theme=radical&bg_color=0D0D15&title_color=00FF99&icon_color=ff007f&text_color=ffffff" alt="Profile Details" width="48%" />
   </a>
@@ -55,10 +52,10 @@
 <!-- 3. SECURE COM-LINK (İLETİŞİM VE SOSYAL MEDYA) -->
 <h3 align="center">🌐 SECURE COM-LINK</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/SENIN_LINKIN" target="_blank">
+  <a href="https://linkedin.com/in/info-barisdemir" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/SENIN_TWITTER" target="_blank">
+  <a href="https://x.com/baristhemir" target="_blank">
     <img src="https://img.shields.io/badge/X-BROADCAST-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:hello@brsdmr.com" target="_blank">
